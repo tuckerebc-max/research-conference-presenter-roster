@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Conference Presenter Roster"
+  short_description: "Evidence-backed conference presenter rosters"
+  default_prompt: "Use $research-conference-presenter-roster to build a verified roster for [event], [time range], [geography], and [scope]."
